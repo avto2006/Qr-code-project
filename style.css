@@ -1,0 +1,61 @@
+body{
+    background-color: lightblue;
+    
+}
+
+
+.content{
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 20px;
+    width: 320px;
+    height: 499px;
+    scale: 1px;
+    padding-bottom: 40px;
+}
+
+.QR-Image .img1 {
+    display: flex;
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 24px;
+}
+
+.Text {
+    display: flex;
+    width: 288px;
+    height: 131px; 
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    justify-content: center;
+    align-content: center;
+    font-weight: 999px;
+    color: #1F314F ;
+    
+}
+
+.sp1 {
+    padding-left: 6px;
+}
+
+
+
+
+.text2 {
+    display: flex;
+    width: 256px;
+    height: 63px;
+    color: #68778D;
+    margin-top: 1px;
+    font-size: 15px;
+    padding-top: 32px;
+    gap: 12px;
+}
